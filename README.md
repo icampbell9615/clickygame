@@ -1,4 +1,4 @@
-<h1>Clicky Game<h1>
+<h1>Clicky Game with React<h1>
 Git Clone Repository and cd "my-app"
      <br>
 NPM Start in terminal to start game. 
